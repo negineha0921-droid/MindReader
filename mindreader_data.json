@@ -1,0 +1,65 @@
+{
+  "best": {
+    "Easy": 3,
+    "Medium": 3,
+    "Hard": null,
+    "Insane": null
+  },
+  "leaderboard": [
+    {
+      "player": "Player",
+      "level": "Medium",
+      "attempts": 3,
+      "points": 100,
+      "date": "19 Nov 2026"
+    },
+    {
+      "player": "Player",
+      "level": "Easy",
+      "attempts": 3,
+      "points": 80,
+      "date": "19 Nov 2026"
+    },
+    {
+      "player": "Player",
+      "level": "Easy",
+      "attempts": 5,
+      "points": 60,
+      "date": "19 Nov 2026"
+    },
+    {
+      "player": "Player",
+      "level": "Easy",
+      "attempts": 5,
+      "points": 60,
+      "date": "19 Nov 2026"
+    },
+    {
+      "player": "Player",
+      "level": "Easy",
+      "attempts": 5,
+      "points": 60,
+      "date": "19 Nov 2026"
+    },
+    {
+      "player": "Player",
+      "level": "Easy",
+      "attempts": 6,
+      "points": 50,
+      "date": "19 Nov 2026"
+    }
+  ],
+  "stats": {
+    "played": 6,
+    "wins": 6,
+    "streak": 6,
+    "best_streak": 6,
+    "total_points": 410
+  },
+  "achievements": [
+    "first_win",
+    "psychic",
+    "streak3",
+    "no_hint"
+  ]
+}
